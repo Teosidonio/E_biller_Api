@@ -1,0 +1,67 @@
+
+|mz.co.standardbank.e_biller.client.ClientController#unsubscribe(Ljava/lang/String;)Lorg/springframework/http/ResponseEntity;†
+ïC:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.java0 0(*"startingBlock*¨
+startingBlock†
+ïC:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.java0+ 0(Lì
+ê
+†
+ïC:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.java0- 0(:
+%17"
+__annotate*86
+4org.springframework.web.bind.annotation.PathVariable*
+
+contractjava.lang.String€
+ÿ
+†
+ïC:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.java0B 0(J
+contractjava.lang.String"__annotation*
+
+%17*
+12*˛
+10†
+ïC:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.java2 2(T"‘
+†
+ïC:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.java2 2(T/
+-
+%3'org.springframework.http.ResponseEntity*∫
+11†
+ïC:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.java2E 2(Oﬂ
+‹
+†
+ïC:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.java2E 2(R)
+%2#org.springframework.http.HttpStatus"__id*
+""˛˚
+†
+ïC:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.java2 2(-
+%3'org.springframework.http.ResponseEntity"'org.springframework.http.ResponseEntityß
+§
+†
+ïC:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.java2
+ 2(S
+%4"horg.springframework.http.ResponseEntity#<init>(Ljava/lang/Object;Lorg/springframework/http/HttpStatus;)V*/
+-
+%3'org.springframework.http.ResponseEntity*1
+/
+%1)mz.co.standardbank.e_biller.client.Client*+
+)
+%2#org.springframework.http.HttpStatus*
+10*≤
+12†
+ïC:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.java2 2(&™
+ß
+†
+ïC:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.java2 2(&6
+%00mz.co.standardbank.e_biller.client.ClientService"__id*D*B5
+3mz.co.standardbank.e_biller.client.ClientController"	
+service’“
+†
+ïC:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.java2 2(B/
+%1)mz.co.standardbank.e_biller.client.Client"zmz.co.standardbank.e_biller.client.ClientService#setActive(Ljava/lang/String;Z)Lmz/co/standardbank/e_biller/client/Client;*8
+6
+%00mz.co.standardbank.e_biller.client.ClientService*
+
+contractjava.lang.String*
+""2setActive(Ljava/lang/String;Z)*
+11:
+contractjava.lang.StringB75
+3mz.co.standardbank.e_biller.client.ClientController

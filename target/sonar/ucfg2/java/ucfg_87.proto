@@ -1,0 +1,24 @@
+
+ämz.co.standardbank.e_biller.client.ClientService#findAll(Lorg/springframework/data/domain/Pageable;)Lorg/springframework/data/domain/Page;ù
+íC:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientService.java ("1*æ	
+1ù
+íC:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientService.java	 (∞
+≠
+ù
+íC:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientService.java	 (9
+%03mz.co.standardbank.e_biller.client.ClientRepository"__id*J*H2
+0mz.co.standardbank.e_biller.client.ClientService"
+clientRepositoryîë
+ù
+íC:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientService.java	 (+*
+%1$org.springframework.data.domain.Page"òorg.springframework.data.repository.PagingAndSortingRepository#findAll(Lorg/springframework/data/domain/Pageable;)Lorg/springframework/data/domain/Page;*;
+9
+%03mz.co.standardbank.e_biller.client.ClientRepository*6
+4
+pageable(org.springframework.data.domain.Pageable23findAll(Lorg/springframework/data/domain/Pageable;)"Œ
+ù
+íC:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientService.java (,,
+*
+%1$org.springframework.data.domain.Page:4
+pageable(org.springframework.data.domain.PageableB42
+0mz.co.standardbank.e_biller.client.ClientService

@@ -1,0 +1,60 @@
+
+hmz.co.standardbank.e_biller.client.ClientController#findAll(II)Lorg/springframework/http/ResponseEntity; 
+•C:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.javam% m(,"7*ý
+4 
+•C:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.javao o(]"Ô
+ 
+•C:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.javao o(]/
+-
+%4'org.springframework.http.ResponseEntity*³
+5 
+•C:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.javaoN o(Xß
+Ü
+ 
+•C:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.javaoN o([)
+%3#org.springframework.http.HttpStatus"__id*
+""þû
+ 
+•C:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.javao o(-
+%4'org.springframework.http.ResponseEntity"'org.springframework.http.ResponseEntity¢
+Ÿ
+ 
+•C:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.javao
+ o(\
+%5"horg.springframework.http.ResponseEntity#<init>(Ljava/lang/Object;Lorg/springframework/http/HttpStatus;)V*/
+-
+%4'org.springframework.http.ResponseEntity*,
+*
+%2$org.springframework.data.domain.Page*+
+)
+%3#org.springframework.http.HttpStatus*
+4*±
+6 
+•C:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.javao o(Kƒ€
+ 
+•C:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.javao o(K*
+%2$org.springframework.data.domain.Page"Šmz.co.standardbank.e_biller.client.ClientService#findAll(Lorg/springframework/data/domain/Pageable;)Lorg/springframework/data/domain/Page;*8
+6
+%00mz.co.standardbank.e_biller.client.ClientService*3
+1
+%1+org.springframework.data.domain.PageRequest23findAll(Lorg/springframework/data/domain/Pageable;)*
+5*Ö
+7 
+•C:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.javao o(&ª
+§
+ 
+•C:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.javao o(&6
+%00mz.co.standardbank.e_biller.client.ClientService"__id*D*B5
+3mz.co.standardbank.e_biller.client.ClientController"	
+serviceû
+ø
+ 
+•C:/Users/a241085/OneDrive - Standard Bank/Documents/Work/Projects/e_biller_api/src/main/java/mz/co/standardbank/e_biller/client/ClientController.javao/ o(J1
+%1+org.springframework.data.domain.PageRequest"_org.springframework.data.domain.PageRequest#of(II)Lorg/springframework/data/domain/PageRequest;*/"-
++org.springframework.data.domain.PageRequest*
+""*
+""*
+6:
+"":
+""B75
+3mz.co.standardbank.e_biller.client.ClientController
