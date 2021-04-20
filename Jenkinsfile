@@ -21,7 +21,7 @@ pipeline {
         stage("clone code") {
             steps {
                 script {
-                    git 'http://pmoz-pa01dvops:81/StandardbankMZ/CPC_2021_Deployements/_git/e_biller_api';
+                    git 'https://github.com/Teosidonio/E_biller_Api.git';
                 }
             }
         }

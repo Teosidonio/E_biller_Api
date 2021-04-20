@@ -10,7 +10,7 @@
     </parent>
     <groupId>mz.co.standardbank</groupId>
     <artifactId>e_biller</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.1.1-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>e_biller</name>
     <description>Open API that permits businesses to directly bill their clients
@@ -111,13 +111,33 @@
 
     </dependencies>
     <repositories>
-        
+
     </repositories>
+    <distributionManagement>
+        <snapshotRepository>
+            <id>e_biller_api</id>
+            <url>http://10.245.87.74:8081/repository/e_biller_api/</url>
+        </snapshotRepository>
+    </distributionManagement>
+
     <build>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+            <plugin>
+                <artifactId>maven-deploy-plugin</artifactId>
+
+                <executions>
+                    <execution>
+                        <id>default-deploy</id>
+                        <phase>deploy</phase>
+                        <goals>
+                            <goal>deploy</goal>
+                        </goals>
+                    </execution>
+                </executions>
             </plugin>
         </plugins>
     </build>
